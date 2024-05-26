@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1699347303 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\projets\operation_on_log\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"operation_on_log.h"
+
+1699166803 c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\projets\operation_on_log\operation_on_log.h
+
+1700656046 source:c:\users\hp\desktop\figi\semestre 1\structure de données et programmation c\projets\operation_on_log\operation_on_log.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+	<string.h>
+	"operation_on_log.h"
+
